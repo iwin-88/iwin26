@@ -1,0 +1,20 @@
+/* @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300); */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(./img/banner/1.webp) center top -50px/985px repeat-x,#002429;
+}nav,
+footer{
+    background-color: #001c20;
+}
+.blog{
+    background: url(./img/banner/1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
